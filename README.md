@@ -1,4 +1,7 @@
 # Four-Percent-Rule-Pandas-Analysis
+
+![Language](https://img.shields.io/badge/Language-Python-success?style=flat)
+
 In recent years Python has become the most popular programing language for data analysis and visualization thanks to its ease of use with libraries like Pandas, Matplotlib, Seaborn and ScyPi.
 
 In this project I was contracted to write an article analyzing the usability of the Four Percent Rule, a well-known rule of thumb in the personal finance industry.
